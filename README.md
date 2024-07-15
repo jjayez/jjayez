@@ -1,7 +1,7 @@
 ## Compact annotated corpora 👋
 
 
-The .zip file contains the results of annotating 5 spoken French corpora, a subtask of the CODIM ANR project (https://www.codim-project.org/).
+The .zip file contains the results of annotating 5 spoken French corpora plus a number of written corpora (le monde, reddit, etc.), a subtask of the CODIM ANR project (https://www.codim-project.org/).
 
 The annotation targets French *discourse markers* (DM), about 700 in the present state of our dictionary.
 
